@@ -1,2 +1,2 @@
-# Email-Spam-Fitering
+# Email-Spam-Filtering
 Used various NLP preprocessing technique to clean the data(The dataset was very unclean)...
